@@ -2,7 +2,7 @@
 
 [![Screenshot](/img/calculator-er.netlify.app.png)](https://calculator-er.netlify.app)
 
-### 💻 Uma calculadora virtual utilizando HTL, CSS e JavaScript. 
+### 💻 Uma calculadora virtual utilizando HTML, CSS e JavaScript. 
 
 #
 
