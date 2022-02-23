@@ -1,6 +1,6 @@
 # ➗ **_RochaCalc_** ➗
 
-<a href="https://calculator-er.netlify.app" target="_blank"><img src="/img/calculator-er.netlify.app.png"></img></a>
+[![Screenshot](/img/calculator-er.netlify.app.png)](https://calculator-er.netlify.app)
 
 ### 💻 Uma calculadora virtual utilizando HTL, CSS e JavaScript. 
 
