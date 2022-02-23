@@ -1,9 +1,9 @@
 # ➗ **_RochaCalc_** ➗
 
-[![Screenshot](/img/calculator-er.netlify.app.png)](www.calculator-er.netlify.app)
+[![Screenshot](/img/calculator-er.netlify.app.png)](https://www.calculator-er.netlify.app)
 
 ### 💻 Uma calculadora virtual utilizando HTL, CSS e JavaScript. 
 
 #
 
-Feito por [Eduardo Rocha](github.com/oedurocha).
+Feito por [Eduardo Rocha](https://github.com/oedurocha).
