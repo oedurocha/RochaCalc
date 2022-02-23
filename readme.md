@@ -6,4 +6,4 @@
 
 #
 
-Feito por [Eduardo Rocha](www.github.com/oedurocha/).
+Feito por [Eduardo Rocha](github.com/oedurocha).
